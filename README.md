@@ -7,13 +7,13 @@ Group : Avangers
 * Damiana Trivinita L Blolong as a Designer
 * Meka Patricia Maharani as a Analyst
  
-<br> Program ini menyediakan kebutuhan manajemen cafe yang mempunyai tiga menu yaitu menu Admin, Kasir dan User. Berikut tampilan ketiga menu tersebut.
+<br> Program ini menyediakan kebutuhan manajemen cafe yang mempunyai tiga menu utama yaitu menu Admin, Kasir dan User. Berikut tampilan ketiga menu tersebut.
 
 <p align="center" width="100%">
     <img width="33%" src="/ss/ss tampilan.png">
 </p>
 
-<br> Kemudian jika menekan tombol User akan diarahkan ke menu utama dengan tampilan seperti berikut.
+<br> Kemudian jika menekan tombol User akan diarahkan ke menu pemesanan dengan tampilan seperti berikut.
 
 <p align="center" width="100%">
     <img width="33%" src="/ss/ss pemesanan.png">
